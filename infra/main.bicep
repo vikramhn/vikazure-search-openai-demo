@@ -11,7 +11,7 @@ param location string
 
 param cognitiveServicesAccountName string = ''
 param cognitiveServicesSkuName string = 'S0'
-param appServicePlanName string = ''
+param appServicePlanName string = 'vikopenai-azsearch0310a'
 param resourceGroupName string = ''
 param backendServiceName string = ''
 param searchServicesName string = ''
